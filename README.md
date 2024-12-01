@@ -1,6 +1,6 @@
 # PARF-Net
 
-![framework](E:\texlive\PARF-Net\figure1.png)
+![framework](images/figure1.png)
 
 we develop a new
 method PARF-Net to integrate convolutions of Pixel-wise
