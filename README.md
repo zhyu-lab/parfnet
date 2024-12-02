@@ -54,7 +54,7 @@ tensorboard 2.14.0
 
 ## Usage
 
-*Note: If you have some problems with the code, the [issues](https://github.com/McGregorWwww/UCTransNet/issues?q=is%3Aissue+is%3Aclosed) may help.*
+
 
 ### 1. Data Preparation
 
